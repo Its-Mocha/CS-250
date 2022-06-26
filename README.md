@@ -11,3 +11,5 @@ How do I approach developing programs? What agile processes do I hope to incorpo
 What does it mean to be a good team member in software development? 
 
 	I think that a good team member would be able to work with all other team members for the same goal, that of which being making the best product for the end user.  
+
+Joe Ducharme
